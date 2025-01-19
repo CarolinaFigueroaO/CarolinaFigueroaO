@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js" height="40" alt="python logo"  />
+  <img src="[https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbr2RpgfntcBKFVPwtTtVwifVRY7jPXb-TA&s)" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
