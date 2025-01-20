@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src=" https://www.flaticon.com/free-icon/sql-server_2772128?term=sql&page=1&position=1&origin=tag&related_id=2772128" height="40" alt="nodejs logo"  />
+  <img src="https://www.flaticon.com/free-icon/sql-server_2772128?term=sql&page=1&position=1&origin=tag&related_id=2772128" height="40" alt="sql logo"  />
   <img width="12" />
 
 </div>
