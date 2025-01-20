@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carolina and I'm a **Computer Science and Technology student** at ITESM, from Mexico 🌮</p>
+<p align="left">My name is Carolina and I'm a <b>Computer Science and Technology student</b> at ITESM, from Mexico 🌮</p>
 
 ###
 
